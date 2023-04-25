@@ -1,0 +1,1 @@
+# Multiplatform-Photo-Compressor-App
