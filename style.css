@@ -1,0 +1,63 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-size: cover;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-color: rgb(0, 0, 0);
+    background-image: url('./dass1.jpeg');
+}
+
+  
+  .container {
+    margin:  auto;
+    max-width: 600px;
+    padding: 20px;
+    text-align: center;
+    background-image: url('./dass.jpeg'); 
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px #ccc;
+  }
+  
+  .form {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  
+  .button {
+    background-color: #4192e3;
+    border: none;
+    border-radius: 4px;
+    color: #fff;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    padding: 10px 20px;
+    text-transform: uppercase;
+    transition: all 0.3s ease;
+    margin-right: 10px;
+    margin-bottom: 10px; /* add some margin bottom for spacing */
+}
+
+.button:hover {
+    background-color: #6ce5e5;
+    transform: translateY(-2px); /* add a slight upward movement */
+    box-shadow: 0px 3px 10px rgba(0, 0, 0, 0.3); /* add a box-shadow effect */
+}
+
+  
+  #output {
+    margin-top: 20px;
+    text-align: center;
+  }
+  
+  h1 {
+    font-weight: bold;
+    color: #3d1c1c;
+  }
+  
+  label {
+    font-weight: bold;
+    color: #1e90ff;
+  }
+  
